@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("@lllTerabox_downloader_Bot" , "")
 # --------------------------------------------------------
 BOT_NAME = getenv("Testbot Koyeb")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Testbot Koyeb")
 
 API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
